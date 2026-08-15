@@ -1,0 +1,4 @@
+interface:
+  display_name: "PixCake 预览修图二创"
+  short_description: "分类本机实时预设，匹配照片并用精修预览指导二创"
+  default_prompt: "Use $pixcake-preview-creative-workflow to classify the current local PixCake presets, shortlist and test suitable choices, capture the completed preview, and create artwork from the clean original plus that preview."
